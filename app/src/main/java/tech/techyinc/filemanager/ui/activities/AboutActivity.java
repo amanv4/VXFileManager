@@ -76,7 +76,7 @@ public class AboutActivity extends BasicActivity implements View.OnClickListener
   private static final String URL_REPO_SHARE =
       "market://details?id=tech.techyinc.filemanager";
 
-  private static final String URL_REPO = "https://github.com/amanv4/vxfilemananger";
+  private static final String URL_REPO = "https://github.com/amanv4/vxfilemanager";
   private static final String URL_REPO_TRANSLATE =
       "https://localazy.com/p/vx-file-manager/";
   private static final String URL_REPO_RATE = "market://details?id=tech.techyinc.filemanager";
