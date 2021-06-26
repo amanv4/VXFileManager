@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <shortcut
+        android:enabled="true"
+        android:icon="@drawable/ic_shortcut_star"
+        android:shortcutId="shortcut_quick_access"
+        android:shortcutLongLabel="@string/quick"
+        android:shortcutShortLabel="@string/quick">
+        <intent
+            android:action="tech.techyinc.filemanager.openQuickAccess"
+            android:targetClass="tech.techyinc.filemanager.ui.activities.MainActivity"
+            android:targetPackage="tech.techyinc.filemanager" />
+    </shortcut>
+
+    <shortcut
+        android:enabled="true"
+        android:icon="@drawable/ic_shortcut_history"
+        android:shortcutId="shortcut_recent"
+        android:shortcutLongLabel="@string/recent"
+        android:shortcutShortLabel="@string/recent">
+        <intent
+            android:action="tech.techyinc.filemanager.openRecent"
+            android:targetClass="tech.techyinc.filemanager.ui.activities.MainActivity"
+            android:targetPackage="tech.techyinc.filemanager" />
+    </shortcut>
+
+    <shortcut
+        android:enabled="true"
+        android:icon="@drawable/ic_shortcut_android"
+        android:shortcutId="shortcut_apps"
+        android:shortcutLongLabel="@string/apps"
+        android:shortcutShortLabel="@string/apps">
+        <intent
+            android:action="tech.techyinc.filemanager.openAppManager"
+            android:targetClass="tech.techyinc.filemanager.ui.activities.MainActivity"
+            android:targetPackage="tech.techyinc.filemanager" />
+    </shortcut>
+
+    <shortcut
+        android:enabled="true"
+        android:icon="@drawable/ic_shortcut_ftp"
+        android:shortcutId="shortcut_ftp"
+        android:shortcutLongLabel="@string/ftp"
+        android:shortcutShortLabel="@string/ftp">
+        <intent
+            android:action="tech.techyinc.filemanager.openFTPServer"
+            android:targetClass="tech.techyinc.filemanager.ui.activities.MainActivity"
+            android:targetPackage="tech.techyinc.filemanager" />
+    </shortcut>
+
+</shortcuts>

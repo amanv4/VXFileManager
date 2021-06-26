@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AboutLibrariesTheme.Black" parent="AboutLibrariesTheme">
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="fontFamily">@font/eca</item>
+        <item name="colorAccent">@color/primary_amber</item>
+        <item name="colorPrimary">@color/primary_orange</item>
+        <item name="colorPrimaryDark">@color/primary_deep_orange</item>
+    </style>
+    <style name="AboutLibrariesTheme.Light" parent="AboutLibrariesTheme">
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="fontFamily">@font/eca</item>
+        <item name="colorAccent">@color/primary_amber</item>
+        <item name="colorPrimary">@color/primary_orange</item>
+        <item name="colorPrimaryDark">@color/primary_deep_orange</item>
+    </style>
+    <style name="AboutLibrariesTheme.Dark" parent="AboutLibrariesTheme">
+        <item name="android:windowBackground">@android:color/darker_gray</item>
+        <item name="fontFamily">@font/eca</item>
+        <item name="colorAccent">@color/primary_amber</item>
+        <item name="colorPrimary">@color/primary_orange</item>
+        <item name="colorPrimaryDark">@color/primary_deep_orange</item>
+    </style>
+</resources>
