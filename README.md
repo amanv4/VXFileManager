@@ -1,12 +1,12 @@
 
-# <a href="https://teamamaze.xyz">VX File Manager</a>
+# <a href="https://www.techyinc.tech/VFM">VX File Manager</a>
 
 Simple and attractive Material Design file manager for Android
 
 Overview
 ---
 
-<img src="icon.png" align="right" width="40%" height="100%"></img>
+<img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" align="right" width="40%" height="100%"></img>
 
 <div style="display:flex;">
     
@@ -48,7 +48,7 @@ See our [Privacy Policy](https://www.techyinc.tech/vx-file-manager-privacy-polic
 
 Translators
 ----
-Want to help translate Amaze to your language?  
+Want to help translate VX File Manager to your language?  
 
 See [Localazy translation](https://localazy.com/p/vx-file-manager/).
 
@@ -62,15 +62,17 @@ We strongly recommend using apk signed by us (either Play Store version or from 
 
    Copyright &#169; 2021-2022 Aman Singh<br /><br />
 
-        This App is using the source code of open source application Amaze File Manager as the base code.<br /><br />
+        This App is using the source code of open source application Amaze File Manager as the base code.
 
         Amaze File Manager is free software: you can redistribute it and/or modify
         it under the terms of the GNU General Public License as published by
         the Free Software Foundation, either version 3 of the License, or
-        (at your option) any later version.<br /><br />
+        (at your option) any later version.
+        
         This program is distributed in the hope that it will be useful,
         but WITHOUT ANY WARRANTY; without even the implied warranty of
-        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.<br /><br />  See the
-        GNU General Public License for more details.
+        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
+        
+        See the GNU General Public License for more details.
         You should have received a copy of the GNU General Public License
         along with this program.  If not, see http://www.gnu.org/licenses.
